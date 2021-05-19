@@ -1,9 +1,9 @@
 package fmt_search_test
 
 import (
+	"github.com/daisuke0131/fmt_search"
 	"testing"
 
-	"fmt_search"
 	"github.com/gostaticanalysis/testutil"
 	"golang.org/x/tools/go/analysis/analysistest"
 )

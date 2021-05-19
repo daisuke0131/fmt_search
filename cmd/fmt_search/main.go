@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fmt_search"
+	"github.com/daisuke0131/fmt_search"
 	"golang.org/x/tools/go/analysis/unitchecker"
 )
 

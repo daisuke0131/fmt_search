@@ -1,4 +1,4 @@
-module fmt_search
+module github.com/daisuke0131/fmt_search
 
 go 1.16
 
